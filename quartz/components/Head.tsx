@@ -13,8 +13,13 @@ export default (() => {
     ctx,
   }: QuartzComponentProps) => {
     const titleSuffix = cfg.pageTitleSuffix ?? ""
-    const title =
+    let title =
       (fileData.frontmatter?.title ?? i18n(cfg.locale).propertyDefaults.title) + titleSuffix
+
+    // If this is the site index page, override the title to the requested value
+    if (fileData.slug === "index") {
+      title = "CygnodXPrankx" + titleSuffix
+    }
     const description =
       fileData.frontmatter?.socialDescription ??
       fileData.frontmatter?.description ??
