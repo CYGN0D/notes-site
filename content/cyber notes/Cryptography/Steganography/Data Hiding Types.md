@@ -220,3 +220,5 @@ There are **several techniques**, grouped by where the data is hidden:
 | **Distortion**                     | Image             | Low      | Medium     | Secure if cover is shared      |
 | **Palette-Based**                  | GIF/8-bit image   | Medium   | Low        | Legacy formats                 |
 | **File/Protocol**                  | Files, Network    | Varies   | Medium     | Cybersecurity, covert channels |
+
+[[index]]

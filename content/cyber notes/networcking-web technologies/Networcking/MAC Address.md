@@ -77,3 +77,5 @@ Example:
 | macOS         | `ifconfig`                         |
 | Linux         | `ip link show`                     |
 | iOS / Android | Settings → Wi-Fi → Network details |
+
+[[index]]

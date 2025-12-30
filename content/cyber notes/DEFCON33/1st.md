@@ -1,4 +1,4 @@
-[[[[[[[]()]()]()]()]()]()]()## I. Mobile Security: Pokémon Go Protocol Discovery
+## Mobile Security: Pokémon Go Protocol Discovery
 
 The goal of the research was to build a custom Pokémon scanner, driven by the scarcity of Pokémon in the researcher's rural location in 2016. This effort involved reversing proprietary Niantic protocols and overcoming subsequent anti-cheat defenses.
 
@@ -51,3 +51,5 @@ Following a major update, Niantic deployed sophisticated defenses that necessita
     ◦ **Signature Forgery:** The raw signature input was a Protobuff object that included device details, GPS location, and **sensor information** (like acceleration and gravity), leading to initial concerns that this hard-to-forge data was required. However, **active probing** revealed that **most fields were not required** by the server. The necessary fields included timestamps and specific hashes (using **xx Hash**) based on location and authentication info.
 
 --------------------------------------------------------------------------------
+
+[[index]]

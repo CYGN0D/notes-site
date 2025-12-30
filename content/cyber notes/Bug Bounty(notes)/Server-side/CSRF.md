@@ -5,3 +5,5 @@ Cross-site request forgery (also known as CSRF) is a web security vulnerability 
 #  💥 What is the impact of a CSRF attack?
 
 A CSRF attack forces a victim to unknowingly perform actions in a web application, such as changing account details or transferring funds. This can allow an attacker to take over the user’s account—and if the user is an admin, possibly the entire application..
+
+[[index]]

@@ -143,3 +143,5 @@ In some cases, an attacker might be able to write to arbitrary files on the serv
 |🛠 Tools|Burp Suite, ZAP, Nikto, DotDotPwn|
 |🛡 Fixes|Whitelisting, input validation, canonical paths, sandboxing|
 |🧠 Practice|PortSwigger Academy, TryHackMe, HTB|
+
+[[index]]

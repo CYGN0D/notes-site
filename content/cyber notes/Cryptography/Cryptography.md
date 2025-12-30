@@ -15,3 +15,5 @@
 | **Authentication**  | Verifies sender's identity              |
 | **Authorization**   | Only authorized users can access data   |
 | **Non-Repudiation** | Sender can’t deny message transmission  |
+
+[[index]]

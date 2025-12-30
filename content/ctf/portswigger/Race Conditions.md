@@ -626,7 +626,13 @@ To win the race manually:
 
 ### ✅ **7. Submit the Secret**
 
-Copy the secret and paste it into the lab solution box.
+Copy the secret and paste it into the lab solution box. 
+
+
+
+Links to this page
+
+[[index]]
 
 
 

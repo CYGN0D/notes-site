@@ -143,3 +143,6 @@ If an employee stores confidential data on a USB drive without encryption, anyon
 - **Twofish** → Fast, flexible, open-source option.
 
 
+
+
+[[index]]

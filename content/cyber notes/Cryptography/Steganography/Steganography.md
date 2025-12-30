@@ -284,3 +284,5 @@ Hide messages in:
 | Combined with?  | Cryptography (AES, RSA, etc.)          |
 | Detection Tools | stegdetect, StegExpose, zsteg, binwalk |
 | CTF Relevance   | Very high (common stego challenges)    |
+
+[[index]]

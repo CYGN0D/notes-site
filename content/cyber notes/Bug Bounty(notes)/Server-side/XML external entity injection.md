@@ -173,3 +173,6 @@ xml
 |Logging & monitoring|✅ Medium|Detects exploitation attempts|
 
 
+
+
+[[index]]

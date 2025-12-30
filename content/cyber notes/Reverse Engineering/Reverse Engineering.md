@@ -111,3 +111,5 @@
 4. **Documentation** → Record structure, algorithms, functions
     
 5. **Reconstruction/Improvement** → Rebuild or enhance system
+
+[[index]]

@@ -150,3 +150,6 @@ Heuristics:
 
 A small static scanner that prints headers, dynamic libs, suspicious symbols, and per-section entropy.
 
+
+
+[[index]]

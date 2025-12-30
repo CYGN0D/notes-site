@@ -245,3 +245,5 @@ Test with Burp Collaborator, interact.sh, etc.
 |Safe APIs|Use language-native system command libraries with parameters|
 |Permissions|Isolate applications and limit OS permissions|
 |WAF|May detect some payloads, but can be bypassed|
+
+[[index]]

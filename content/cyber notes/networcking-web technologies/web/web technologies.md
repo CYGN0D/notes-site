@@ -22,3 +22,6 @@ When you visit `http://example.com`, your browser sends an HTTP request to the s
     
 - `PATCH`: Partially update data
 
+
+
+[[index]]

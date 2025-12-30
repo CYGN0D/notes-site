@@ -129,3 +129,5 @@ Even GPT disks contain a **"protective MBR"** at sector 0.
 - It prevents **legacy disk utilities** (that don’t recognize GPT) from thinking the disk is empty.
     
 - It defines **one fake partition** spanning the entire disk.
+
+[[index]]

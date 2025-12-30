@@ -639,3 +639,5 @@ The **PCH** replaces the **Southbridge** in modern systems.
 ## 🔹 Visual Flow
 
 `Process Virtual Address → Page Table →      [ If Present=1 ] → RAM (fast)     [ If Present=0 ] → Page Fault → Swap/Page File → Load into RAM`
+
+[[index]]

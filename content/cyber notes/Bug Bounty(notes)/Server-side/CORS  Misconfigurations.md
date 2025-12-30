@@ -199,3 +199,12 @@ There are various ways to perform CSRF attacks without using CORS, including sim
 ```
 
 <script> 
+
+
+
+[[index]]
+
+
+
+
+

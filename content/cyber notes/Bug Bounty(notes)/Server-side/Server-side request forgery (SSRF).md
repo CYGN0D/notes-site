@@ -131,3 +131,5 @@ Gopher can allow sending **custom binary payloads**, often to internal services 
 | **ffuf / wfuzz** | Fuzz SSRF parameters                   |
 
 ```
+
+[[index]]

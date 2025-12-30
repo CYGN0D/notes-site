@@ -297,3 +297,5 @@ Run: `python3 apk_static_scan.py app.apk`
 - Native libs with `JNI_OnLoad` and decryption loops → strong indicator of unpacker.
     
 - Multiple re-signatures or wrong certificate chain → repackaging.
+
+[[index]]

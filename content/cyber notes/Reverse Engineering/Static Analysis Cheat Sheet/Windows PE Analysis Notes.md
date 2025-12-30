@@ -339,3 +339,5 @@
 - Automate scanning → Python / YARA / Capa
     
 - Track anomalies in header, section, import/export
+
+[[index]]
